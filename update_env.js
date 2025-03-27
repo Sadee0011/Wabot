@@ -69,7 +69,7 @@ async (conn, mek, m, { from, q, reply, isOwner }) => {
 
         // Update the environment variable
         await updateEnv(key, newValue, finalMode);
-        reply(`*💗𝐃𝐎𝐍𝐄_𝐔𝐏𝐃𝐀𝐓𝐄💗*\n\n*${key}* ➠ ${newValue} ${finalMode ? `\n*Mode:* ${finalMode}` : ''}`);
+        reply(`*💗𝐃𝐎𝐍𝐄_𝐔𝐏𝐃𝐀𝐓𝐄_𝐒𝐀𝐃𝐄𝐄_𝐌𝐃💗*\n\n*${key}* ➠ ${newValue} ${finalMode ? `\n*Mode:* ${finalMode}` : ''}`);
         
     } catch (err) {
         console.error('Error updating environment variable:' + err.message);
