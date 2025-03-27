@@ -18,7 +18,7 @@
 
 ---
 
-<a href="https://pair-web-public.koyeb.app/"><img src="https://img.shields.io/badge/PAIR=CYBER-MD-greeen" alt="Create cyber-md bot" width="200"></a>
+<a href="https://pair-web-public.koyeb.app/"><img src="https://img.shields.io/badge/PAIR=𝐒𝐀𝐃𝐄𝐄-MD-greeen" alt="𝐒𝐀𝐃𝐄𝐄 𝐌𝐃 𝐁𝐎𝐓" width="200"></a>
 
 
 
