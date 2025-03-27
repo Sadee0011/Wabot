@@ -28,7 +28,7 @@ const infomsg = `
 ❍__ *𝚁𝚄𝙽  𝚃𝙸𝙼𝙴*⏳        -:  ${runtime(process.uptime())}
 ❍__*𝚁𝙰𝙼 𝚄𝚂𝙰𝙶𝙴*📟         -: ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
 
-> 𝙿𝙾𝚆𝙴𝚁𝙳  𝙱𝚈  𓄂𝐎ᴡͥɳͣᴇͫᴙ  𝐂ʏ͢ʙᴇʀ  𝚇 Aʏ͢ᴇꜱʜ
+> 𝙿𝙾𝚆𝙴𝚁𝙳  𝙱𝚈  𓄂SADEE MD 🖥️
 `
 await conn.sendMessage(from, { text: infomsg }, { quoted: mek })
 
