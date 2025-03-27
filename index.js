@@ -78,7 +78,7 @@ require("./plugins/" + plugin);
 }
 });
 console.log('Plugins installed successful ✅')
-console.log('ᴄʏʙᴇʀ ᴍᴅ ᴄᴏɴᴇᴄᴛᴇᴅ✅')
+console.log('SADEE MD CONET DON ✅')
   
 let up = `𝔹𝕆𝕋 ℂ𝕆ℕ𝔼ℂ𝕋𝔼𝔻🧑🏻‍💻`;
 
@@ -238,7 +238,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
                 video: fs.readFileSync("./" + ext),
                 mimetype: "video/mp4",
                 fileName: `${m.id}.mp4`,
-                caption: "> PODDA X MD - " + caption ,
+                caption: "> SADEE X MD - " + caption ,
                 headerType: 4
             };
             await conn.sendMessage(from, buttonMessage,{
@@ -257,7 +257,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("ᴄʏʙᴇʀ-ᴍᴅ Bot running..✅💫");
+res.send("sadee md Bot running..✅💫");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
