@@ -1,7 +1,7 @@
 {
-  "name": "CYBER-MD",
+  "name": "SADEE MD ",
   "version": "1.0.0",
-  "description": "CYBER-MD ᴩᴏᴡᴇʀᴅ  ʙʏ  ᴩʀᴏɢʀᴀᴍᴍᴇʀ  ᴀʏᴇꜱʜ☘✅",
+  "description": "SADEE MD BOT RUNING BRO 😌🖥️✅",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name cyber-md",
